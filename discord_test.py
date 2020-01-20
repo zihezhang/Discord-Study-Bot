@@ -1,4 +1,5 @@
 import discord
+import time
 from key import secret
 from pprint import pprint
 from discord.ext import commands, tasks
